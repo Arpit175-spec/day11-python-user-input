@@ -1,0 +1,8 @@
+Enter a name : Devansh
+The name is Devansh
+This is a user input program
+Enter your first no : 20
+Enter your second no : 22
+The type of x is <class 'str'>
+The type of y is <class 'str'>
+42
